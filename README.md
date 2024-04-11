@@ -1,4 +1,4 @@
-# SBIN ASSIGNMENT
+# ASSIGNMENT
 
 ## Question :
 1) We have SBI stock Open, high, low, close and volume data for every minute for every day
