@@ -9,7 +9,7 @@
 
 3) We have to rank the volume in a such a way that it checks the exact same time for every day and for the last 5 days, it gives us the rank of volume (rank 1 means highest volume)
 
- '''Certainly! Assignment involves analyzing SBI (State Bank of India) stock data for the month of January 2024.'''
+ *Certainly! Assignment involves analyzing SBI (State Bank of India) stock data for the month of January 2024.*
 
 1. **Data Description**: You are provided with minute-level data for each trading day in January 2024. The data includes the following attributes for SBI stock:
    - Open price
